@@ -11,7 +11,7 @@ const SummaryCartCard = ({ totalPrice }: SummaryCart) => {
 	return (
 		<>
 			{isMobile ? (
-				<footer className='sticky z-10 bottom-[0vh] bg-gray-100 w-full justify-between px-6 py-4 gap-2 border-t-2 grid grid-cols-1 shadow-[0_-4px_8px_rgba(0,0,0,.07)]'>
+				<footer className='sticky z-10 bottom-[0vh] bg-gray-100 w-full justify-between px-8 py-4 gap-2 border-t-2 grid grid-cols-1 shadow-[0_-4px_8px_rgba(0,0,0,.07)]'>
 					<div className='flex justify-between '>
 						<div className='text-transparent/70'>Sub-total</div>
 						<div className='font-normal text-lg'>ARS ${fixedTotalPrice}</div>

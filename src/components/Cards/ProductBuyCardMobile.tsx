@@ -4,7 +4,7 @@ import { ShoppingBagIcon } from '@/components/icons';
 
 export const ProductBuyCardMobile = ({ price, handleOnClick }: ProductByCard) => {
 	return (
-		<footer className='sticky z-10 bottom-[0vh] bg-gray-50 w-full gap-1 justify-between p-4 border-t-2 grid grid-cols-1 shadow-[0_-4px_8px_rgba(0,0,0,.04)]'>
+		<footer className='sticky z-10 bottom-[0vh] bg-gray-50 w-full gap-2 justify-between px-8 py-4 border-t-2 grid grid-cols-1 shadow-[0_-4px_8px_rgba(0,0,0,.04)]'>
 			<div className='flex justify-between'>
 				<div className='text-transparent/70'>Sub-total</div>
 				<div className='font-medium text-lg'>ARS ${price}</div>

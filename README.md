@@ -1,24 +1,22 @@
-# Simple Ecommerce Web
+# Ecommerce Web
 
 <img src="/src/assets/home.png" alt="home-app" width="260px">
 <img src="/src/assets/ecommerce.png" alt="ecommerce-app" width="260px">
 <img src="/src/assets/checkout.png" alt="checkout-app" width="260px">
 
-This is a simple ecommerce project developed with ReactJS.
+This is an ecommerce project developed with ReactJS.
 
 ## Description
 
-The project is a web application that allows users to make online purchases. It includes features such as product display, add to cart functionality, order management, and notifications using react-toastify.
+The project is a web application with mobile-first approach that allows users to make online purchases. It includes features such as product display, add to cart functionality, and more.
 
 ## Technologies Used
 
 - ReactJS: JavaScript library for building interactive user interfaces.
-- Vite: Fast and optimized development tool for building modern web applications.
 - TypeScript: Programming language that adds static typing to JavaScript.
 - Redux: Library for managing the application state.
-- react-router-dom: Library for navigation and routing in the application.
 - Tailwind CSS: Utility-first CSS framework for rapid UI development.
-- react-toastify: Library for displaying notifications to the user.
+- Vite: Fast and optimized development tool for building modern web applications.
 
 ## Prerequisites
 
@@ -56,4 +54,4 @@ Before running the application, make sure you have the following installed:
 
    ```
 
-5. Open your browser and navigate to your localhost to see the application.
+5. Open your browser and navigate to your http://localhost:5173/ to see the application.
