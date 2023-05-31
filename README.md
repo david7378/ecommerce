@@ -8,7 +8,7 @@ This is an ecommerce project developed with ReactJS.
 
 ## Description
 
-The project is a web application with mobile-first approach that allows users to make online purchases. It includes features such as product display, add to cart functionality, and more.
+The project is a web application with mobile-first approach that allows users to make online purchases. It connects to an API and includes features such as product display, add to cart functionality, and more.
 
 ## Technologies Used
 
