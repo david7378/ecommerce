@@ -1,6 +1,7 @@
 # Ecommerce Web
 
 This is an ecommerce project developed with ReactJS.
+
 <img src="/src/assets/home.png" alt="home-app" width="260px">
 <img src="/src/assets/ecommerce.png" alt="ecommerce-app" width="260px">
 <img src="/src/assets/checkout.png" alt="checkout-app" width="260px">
